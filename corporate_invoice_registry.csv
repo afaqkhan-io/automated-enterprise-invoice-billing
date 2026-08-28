@@ -1,0 +1,6 @@
+Invoice_ID,Client_Name,Client_Email,Amount_Due,Due_Date,Status
+INV-2026-001,Acme Tech Solutions,billing@acmetech.com,4500.0,2026-09-05,Unpaid
+INV-2026-002,Stark Global Industries,finance@starkind.com,12500.5,2026-08-20,Overdue
+INV-2026-003,Wayne Enterprises,accounts@waynecorp.com,8900.0,2026-09-10,Unpaid
+INV-2026-004,Cyberdyne Systems,payments@cyberdyne.co,3200.25,2026-08-15,Overdue
+INV-2026-005,Oscorp Industries,treasury@oscorp.org,0.0,2026-08-25,Paid
