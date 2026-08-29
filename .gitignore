@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Enterprise Financial Data (Strictly Local)
+corporate_invoice_registry.csv
+*.log
