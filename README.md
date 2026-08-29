@@ -2,10 +2,8 @@
 
 An advanced enterprise-grade financial operations asset designed to scan corporate accounts receivable databases, automatically apply state filters to segment accounts, and execute smart multi-template transactional notifications targeting outstanding dues and overdue balances.
 
-<!-- Professional Badges -->
-[![Python Version](https://shields.io)](https://python.org)
-[![Domain](https://shields.io)]()
-[![License: MIT](https://shields.io)](https://opensource.org)
+`🧾 Domain: FinTech Automation` | `💻 Runtime: Python 3.8+` | `📄 License: MIT`
+
 
 ## 🧠 Operational Architecture & Logic
 * **`corporate_invoice_registry.csv`:** Serves as the primary localized data engine housing invoice parameters, client markers, and outstanding balances.
